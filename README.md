@@ -44,3 +44,6 @@ The core of this project was mastering **Java Sockets**. By managing "listeners"
 1.  **Data Serialization:** How data is transmitted and interpreted across a network.
 2.  **Timing & Synchronization:** Managing the issues inherent in multi-client systems where multiple players access objects simultaneously.
 3.  **Iterative Design:** Moving from the "drawing board" to a doable, functional MVP within a strict deadline.
+
+### Demo
+https://github.com/user-attachments/assets/8cdcd51b-d5cd-490c-9098-5c5268f11a7f
